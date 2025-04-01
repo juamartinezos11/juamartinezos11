@@ -5,7 +5,7 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a mechanical engineering student who loves learning, I'm very competitive and always try to be the best on what i do, I care very much of my family and relationships and I've always been a great student. I'm learning to code because someday I'd like to build a mini robot partner.  
+I am a mechanical engineering student who loves learning, I'm very competitive and always try to be the best one on whatever I do, I care very much of my family and relationships and I've always been a great student. I'm learning to code because someday I'd like to build a mini robot partner.  
 * **My dream is to become a Nvidia researcher**
 - 🌱 I’m currently learning ...
   - Python
